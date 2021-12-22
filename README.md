@@ -1,5 +1,5 @@
 # HealthKitToFhir Swift Library
-
+Relevant for my master thesis is the following: the ObservationFactory class was extended by all data types required for the master thesis. ECG, audiograms, workouts, categories and characteristic data from the HealthStore can now be converted to FHIR Observations.
 
 The modified HealthKitToFhir Swift Library provides a simple way to create FHIR® Resources from HKObjects.
 
